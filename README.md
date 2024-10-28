@@ -13,8 +13,8 @@ To check out this repo yourself, you'll need a working installation of Node.
 Then, run:
 
 ```
-git clone https://github.com/ssoready/ssoready-example-app-next-nextauth-saml
-cd ssoready-example-app-python-flask-saml
+git clone https://github.com/ssoready-example-app-nextjs-nextauth-saml
+cd ssoready-example-app-nextjs-nextauth-saml
 
 npm install
 npm run dev
