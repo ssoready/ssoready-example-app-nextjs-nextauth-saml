@@ -105,7 +105,7 @@ The steps we took were:
    [environment](https://ssoready.com/docs/ssoready-concepts/environments), and
    configured its [redirect
    URL](https://ssoready.com/docs/ssoready-concepts/environments#redirect-url)
-   to be `http://localhost:5293/ssoready-callback`.
+   to be `http://localhost:3000/ssoready-callback`.
 3. We created a [SAML OAuth
    Client](https://ssoready.com/docs/saml-over-oauth-saml-nextauth-integration#creating-saml-oauth-clients).
    Because this is a demo app, we hard-coded it into `.dev.local`. In
