@@ -3,9 +3,12 @@
 # SSOReady Example App: Next.js + NextAuth with SAML
 
 This repo contains a minimal example app built with Next.js and NextAuth that
-supports [SAML](https://ssoready.com/docs/saml/saml-quickstart) using
-[SSOReady](https://ssoready.com/), an open-source way to add SAML and SCIM
-support to your product.
+supports [SAML](https://ssoready.com/docs/saml/saml-quickstart) using the
+[SSOReady NextAuth
+provider](https://ssoready.com/docs/saml-over-oauth-saml-nextauth-integration).
+
+[SSOReady](https://github.com/ssoready/ssoready) is an open-source way to add
+SAML and SCIM support to your application.
 
 ## Running it yourself
 
